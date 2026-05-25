@@ -23,7 +23,6 @@
   </dependencies>
   <build>
     <finalName>japp1</finalName>
-     <finalName>japp1</finalName>
     <plugins>
     <plugin>
         <groupId>org.apache.maven.plugins</groupId>
